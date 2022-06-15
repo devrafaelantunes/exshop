@@ -1,6 +1,8 @@
 # ExShop API
 
-This API receives a CNAB file through a HTTP Request to process, parse and store it.
+This API receives a CNAB file through a HTTP Request to process, parse and store it. The application uses the Flow library to process the transactions in parallel, increasing the performance.
+
+Please check the doc included in this repository for more information on how to use the application.
 
 ## Getting Started
 
